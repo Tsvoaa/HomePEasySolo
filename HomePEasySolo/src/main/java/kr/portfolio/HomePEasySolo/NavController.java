@@ -17,4 +17,10 @@ public class NavController {
 	{
 		return "HomePEasy.jsp?Main=Main/Member/Login/Login";
 	}
+	
+	@RequestMapping(value="React")
+	private String React()
+	{
+		return "index";
+	}
 }
