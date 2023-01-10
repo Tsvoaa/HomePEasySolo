@@ -20,9 +20,15 @@
 <link
 	href="https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap"
 	rel="stylesheet">
+<link
+	href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap"
+	rel="stylesheet">
+<link
+	href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap"
+	rel="stylesheet">
 <title>HomePEasy</title>
-<script defer="defer" src="/HomePEasySolo/resources/react/static/js/main.f938d8f8.js"></script>
-<link href="/HomePEasySolo/resources/react/static/css/main.7a9d0c40.css" rel="stylesheet">
+<script defer="defer" src="/HomePEasySolo/resources/react/static/js/main.864f18cd.js"></script>
+<link href="/HomePEasySolo/resources/react/static/css/main.52b812bc.css" rel="stylesheet">
 </head>
 <body>
 	<noscript>You need to enable JavaScript to run this app.</noscript>
