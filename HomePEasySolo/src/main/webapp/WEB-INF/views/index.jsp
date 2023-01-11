@@ -27,7 +27,7 @@
 	href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap"
 	rel="stylesheet">
 <title>HomePEasy</title>
-<script defer="defer" src="/HomePEasySolo/resources/react/static/js/main.864f18cd.js"></script>
+<script defer="defer" src="/HomePEasySolo/resources/react/static/js/main.eb0b7768.js"></script>
 <link href="/HomePEasySolo/resources/react/static/css/main.52b812bc.css" rel="stylesheet">
 </head>
 <body>
