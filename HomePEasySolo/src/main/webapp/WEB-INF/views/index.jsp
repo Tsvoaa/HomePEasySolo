@@ -15,6 +15,8 @@
 	rel="stylesheet"
 	integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
 	crossorigin="anonymous">
+	
+<!-- 구글 폰트 import -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link
@@ -27,6 +29,8 @@
 	href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap"
 	rel="stylesheet">
 <title>HomePEasy</title>
+
+<!-- 리액트 css 및 js import -->
 <script defer="defer" src="/HomePEasySolo/resources/react/static/js/main.eb0b7768.js"></script>
 <link href="/HomePEasySolo/resources/react/static/css/main.52b812bc.css" rel="stylesheet">
 </head>
